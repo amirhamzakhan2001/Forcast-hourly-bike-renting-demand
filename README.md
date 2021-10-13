@@ -23,4 +23,4 @@ we use k-nearest neighbour of machine learning to find accuracy.
 
 we save it in the submission file.
 
-after copying the variables from submission.csv and copy it in solution checker excel sheet, we get the hourly demand rate as seen in the demad rate of bike.csv file
+after copying the variables from submission.csv and copy it in solution checker.xlsx, we get the hourly demand rate as seen in the demad rate of bike renting.csv file
