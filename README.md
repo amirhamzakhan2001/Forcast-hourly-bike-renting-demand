@@ -5,13 +5,22 @@ we used the data to find out the hourly demand rate of a bike in a city. For thi
 
 we  first define problem.
 
-we have done Hypothesis generation i.e. we find out the vaiable which affect or influence our problem.\n
-we had done data extraction i.e. collect and read the data in csv file.\n
-we identify the variable and its type.\n
-we had done univariate analysis.\n
+we have done Hypothesis generation i.e. we find out the vaiable which affect or influence our problem.
+
+we had done data extraction i.e. collect and read the data in csv file.
+
+we identify the variable and its type.
+
+we had done univariate analysis.
+
 we had done bivariate analysis to see which variable has best imoerical relationship.
+
 we extract the real date and time.
+
 we use linear regression model of machine learning to find accuracy.
+
 we use k-nearest neighbour of machine learning to find accuracy.
+
 we save it in the submission file.
+
 after all the coding we copy our variables from submission file and copy it in solution checker file to find out the hourly demand rate
